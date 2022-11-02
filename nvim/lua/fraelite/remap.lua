@@ -1,3 +1,3 @@
 local nnoremap = require("fraelite.keymap").nnoremap
 
-nnoremap("<leader>pv", "<cmd>Ex<CR>")
+nnoremap("<leader>pv", "<cmd>NvimTreeToggle<CR>")
